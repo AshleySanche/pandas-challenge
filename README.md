@@ -1,1 +1,1 @@
-# pandas-challenge
+# panda-challenge
